@@ -8,7 +8,7 @@ int main()
 	int b;
 	cout << "Hello !!!!" << endl;
 	int result;
-	stringg* p;
+	int* p;
 	result = a + b;
 	cout << result;
 	p = &result;
