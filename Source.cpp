@@ -6,7 +6,7 @@ int main()
 {
 	int a;
 	int b;
-	cout << "Hello !" << endl;
+	cout << "Hello !!!!" << endl;
 	int result;
 	stringg* p;
 	result = a + b;
